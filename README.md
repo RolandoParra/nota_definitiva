@@ -1,9 +1,6 @@
 # nota_definitiva
 programa en Python para calcular la nota definitiva de una asignatura del Colegio Guanentá
 
-# instrucciones
- - Nc = Nota cognitiva
- - Np = nota procedimental
- - NA = Nota actitudinal
- - Au = Auto evaluación
- - Bi = Bimestral
+# Instrucciones
+- Al ingresar las notas de la asignatura, utilice valores enteros entre 10 y 50.
+- No use puntos decimales (`.`), ya que el programa solo acepta números enteros.
