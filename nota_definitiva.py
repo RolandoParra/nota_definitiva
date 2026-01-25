@@ -22,3 +22,7 @@ print(asignatura)
 print(Nd)
 if pasar: print("pasaste la asignatura")
 else: print("perdiste la asignatura")
+
+#salir
+print("presiona enter para salir")
+input()
