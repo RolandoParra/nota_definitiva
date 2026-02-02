@@ -1,4 +1,4 @@
-#input
+#inicio
 asignatura = input("digite la asignatura: ")
 Nc = input ("digite la nota cognitiva: ")
 Np = input("digite la nota procedimental: ")
@@ -18,11 +18,14 @@ Nd = int(Nd)
 pasar = Nd > 29
 
 #output
+print()
 print(asignatura)
 print(Nd)
 if pasar: print("pasaste la asignatura")
 else: print("perdiste la asignatura")
 
 #salir
+print()
+print()
 print("presiona enter para salir")
 input()
